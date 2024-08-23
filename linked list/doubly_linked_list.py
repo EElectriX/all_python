@@ -41,6 +41,10 @@ if __name__=="__main__":
   print("the doubly linked list after last insert is :" , end="")
   print_node(head)
 
+# output:  the primary doubly linked list is :10,20,30,40,50,
+
+# the doubly linked list after last insert is :10,20,30,40,50,60,
+
 
 
    

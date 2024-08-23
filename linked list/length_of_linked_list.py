@@ -25,4 +25,8 @@ if __name__=="__main__":
   print (f"data: ", end="")
 
   print_linked_list(head)
+
+#  output: data: 5,10,15,20,
+
+# The length of the linked list is :4
   

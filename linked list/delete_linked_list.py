@@ -78,3 +78,11 @@ if __name__=="__main__":
   
   print (f"delete index 4: ", end="")  
   print_linked_list(head)
+
+#   output:
+
+# data: 5,10,15,20,30,35,40,45,50,The length of the linked list is :9
+# delete last: 5,10,15,20,30,35,40,45,The length of the linked list is :8
+# delete start: 10,15,20,30,35,40,45,The length of the linked list is :7
+# delete 20: 10,15,30,35,40,45,The length of the linked list is :6
+# delete index 4: 10,15,30,35,45,The length of the linked list is :5

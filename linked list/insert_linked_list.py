@@ -59,4 +59,8 @@ if __name__=="__main__":
 
 
    
-    
+# output:    data before insert: 5,10,15,20,
+
+# data after insert: 25,5,10,15,20,
+
+# data insert at last: 25,5,10,15,20,30,
